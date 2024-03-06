@@ -10,3 +10,5 @@ Integrantes del equipoo:
 - Guillermo Stanley Recinos Alvarenga (20220383)
 - Juan Pablo Montes Espinoza (20210600)
 - Manuel Enrique Contreras Rivera (2022481)
+
+Se utilizo MySQLDUMP para el BackUp de recuperación
